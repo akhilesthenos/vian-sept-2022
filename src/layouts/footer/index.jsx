@@ -81,7 +81,7 @@ const Footer = () => {
                                                 "/service"
                                             }
                                         >
-                                            Pricing Plan
+                                            Our Services
                                         </Link>
                                     </li>
                                     {/* <li>
