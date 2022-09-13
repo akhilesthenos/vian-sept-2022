@@ -4,7 +4,7 @@ import "./style.scss";
 const WFHEffect = () => {
     return (
         <React.Fragment>
-            <div className="animated-title">
+            <div className="animated-title mt-8">
                 <div className="text-top">
                     <div className="tech-head-title">
                         <span>We are creators, technologists </span>

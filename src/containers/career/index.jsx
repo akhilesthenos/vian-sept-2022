@@ -30,7 +30,7 @@ const CareerContainer = () => {
                                 // subTitle="Career"
                                 // title="We are <span class='text-primary'>different</span> because..."
                                 title="Building the Future of Payments <br/><span class='text-primary'>&amp;</span> Lending"
-                                excerptClassOption="mb-10"
+                                excerptClassOption="mb-5"
                                 excerpt="We are building a movement to empower and enable millions of merchants 
                                 to start accepting digital payments and get easy access to credit.<br/><br/>
                                 We are a highly motivated team, and the culture is open

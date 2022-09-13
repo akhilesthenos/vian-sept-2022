@@ -8,12 +8,12 @@ const HeadingSection = () => {
         <div className="container">
             <div className="row">
                 <div className="col-12 tech-container">
-                    <LogoTech
+                    {/* <LogoTech
                         classOption="d-block img-es my-md-8"
-                        image={`${process.env.PUBLIC_URL}/images/logo/new.png`}
+                        image={`${process.env.PUBLIC_URL}/images/logo/vian.png`}
                         // classOption="d-block img-es"
                         // image={`${process.env.PUBLIC_URL}/images/logo/vian-white.png`}
-                    />
+                    /> */}
                     <WFHEffect />
                     {/* <h2 className="tech-head-title">Building next gen</h2>
                     <div className="title animated vt-buti d-flex justify-content-left m-0 p-0">
