@@ -90,8 +90,8 @@ const Intro = ({ data }) => {
                                 className="es-sty-cust animated delay1 custom-font"
                                 // style={{ marginBottom: "3rem" }}
                             >
-                                NEO distribution channel bridging Urban-Rural
-                                divide
+                                Shifting the paradigm…Disrupting the way
+                                financing works for BHARAT
                             </p>
                             {/* <Button
                                 classOption="btn btn-lg animated delay1 btn-dark btn-hover-dark me-4 mb-3 mb-sm-0"

@@ -21,8 +21,10 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/vian-footer.png`}
                                 />
                                 <p>
-                                    Pleasure rationally encounter consequences
-                                    that extremely painful. Nor again is there
+                                    We are a Fintech with difference, committed
+                                    to deliver impact-centric solutions and
+                                    building the Neo distribution channel for
+                                    those who needed most
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
