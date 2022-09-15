@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import BlogGrid from "../../../components/blog";
+import BlogGrid from "../../../components/blog-Custom";
 
 const BlogItemContainer = ({ data }) => {
     return (

@@ -43,8 +43,8 @@ const AboutContainer = () => {
                             </p>
                             <p className="high-light mb-8">
                                 VIAN is committed to build a platform which can
-                                ensure sustained support to rural
-                                entrepreneurship.
+                                ensure sustained support to entrepreneurship at
+                                BHARAT.
                             </p>
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
