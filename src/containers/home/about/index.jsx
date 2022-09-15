@@ -61,7 +61,7 @@ const HomeAboutContainer = () => {
                         >
                             <div data-depth="0.2">
                                 <img
-                                    src={`${process.env.PUBLIC_URL}/images/about/1.png`}
+                                    src={`${process.env.PUBLIC_URL}/images/about/11.png`}
                                     alt="about"
                                 />
                             </div>
