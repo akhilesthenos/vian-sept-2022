@@ -17,7 +17,7 @@ const Footer = () => {
                         <div className="col-lg-3 col-sm-6 mb-7">
                             <div className="footer-widget">
                                 <Logo
-                                    classOption="footer-logo mb-9"
+                                    classOption="footer-logo mb-5"
                                     image={`${process.env.PUBLIC_URL}/images/logo/vian-footer.png`}
                                 />
                                 <p>
