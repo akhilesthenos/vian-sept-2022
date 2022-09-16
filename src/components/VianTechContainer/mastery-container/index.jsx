@@ -73,7 +73,7 @@ const MasteryContainer = () => {
                     className="hover-color"
                     to={process.env.PUBLIC_URL + "/viantech"}
                 >
-                    <span className="MasteryBodySpan">Pay</span>
+                    <span className="MasteryBodySpan">Finance</span>
                 </NavLink>{" "}
                 <NavLink
                     className="hover-color"
@@ -91,13 +91,13 @@ const MasteryContainer = () => {
                     className="hover-color"
                     to={process.env.PUBLIC_URL + "/viantech"}
                 >
-                    <span className="MasteryBodySpan">DevSecOps</span>
+                    <span className="MasteryBodySpan">Marketing</span>
                 </NavLink>{" "}
                 <NavLink
                     className="hover-color"
                     to={process.env.PUBLIC_URL + "/viantech"}
                 >
-                    <span className="MasteryBodySpan">Data Engineering</span>
+                    <span className="MasteryBodySpan">Data Analytics</span>
                 </NavLink>{" "}
                 <NavLink
                     className="hover-color"

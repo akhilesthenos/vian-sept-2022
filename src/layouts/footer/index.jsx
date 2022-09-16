@@ -208,13 +208,18 @@ const Footer = () => {
                         <div className="col-lg-3 col-sm-6 mb-7">
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
-                                <p>
-                                    VIAN Growth Capital Private Limited No.
-                                    2151, 2nd Floor, HAL 2nd Stage, 17th Main,
-                                    Opp Indiranagar BESCOM, Bengaluru- 560008
-                                    (India)
-                                </p>
                                 <ul className="address">
+                                    <li>
+                                        <a
+                                            className="address-link"
+                                            href="https://goo.gl/maps/dQZiVX9YmGSzHZAY8"
+                                        >
+                                            VIAN Growth Capital Private Limited
+                                            No. 2151, 2nd Floor, HAL 2nd Stage,
+                                            17th Main, Opp Indiranagar BESCOM,
+                                            Bengaluru- 560008 (India)
+                                        </a>
+                                    </li>
                                     {/* <li>
                                         <a
                                             className="address-link"
