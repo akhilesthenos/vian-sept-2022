@@ -215,9 +215,9 @@ const Footer = () => {
                                             href="https://goo.gl/maps/dQZiVX9YmGSzHZAY8"
                                         >
                                             VIAN Growth Capital Private Limited
-                                            No. 2151, 2nd Floor, HAL 2nd Stage,
-                                            17th Main, Opp Indiranagar BESCOM,
-                                            Bengaluru- 560008 (India)
+                                            No. 2151, Ground Floor, HAL 2nd
+                                            Stage, 17th Main, Opp Indiranagar
+                                            BESCOM, Bengaluru- 560008 (India)
                                         </a>
                                     </li>
                                     {/* <li>

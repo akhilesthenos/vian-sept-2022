@@ -118,20 +118,20 @@
         "team": [
             {
                 "id": 1,
-                "thumb": "./images/team/rounded-img1.png",
-                "name": "Cristopher Williams",
+                "thumb": "./images/team/team/AniketT.png",
+                "name": "Aniket Thakur",
                 "designation": "Head of Idea"
             },
             {
                 "id": 2,
-                "thumb": "./images/team/rounded-img2.png",
-                "name": "Rebeca Smith",
+                "thumb": "./images/team/team/VijayS.png",
+                "name": "Vijay",
                 "designation": "Head of HR"
             },
             {
                 "id": 3,
-                "thumb": "./images/team/rounded-img3.png",
-                "name": "Ricardo Powel",
+                "thumb": "./images/team/team/AtulJ.png",
+                "name": "Atul Jain",
                 "designation": "Head of Development"
             }
         ]
